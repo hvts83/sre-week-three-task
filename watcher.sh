@@ -18,4 +18,4 @@ while true; do
 
   # Wait for a while before the next check
   sleep 60
-done
+done 
